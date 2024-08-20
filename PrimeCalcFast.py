@@ -11,7 +11,10 @@ def prime(num: int) -> bool:
     """
     Returns a bool representing the primality of the argument
 
-    :num: a positive integer that follows the pattern 6n+/-1
+    :param num: a positive integer that follows the pattern 6n+/-1
+    :type num: int
+    :returns: True if num is prime, False otherwise
+    :rtype: bool
     """
     for div in range(5, int(sqrt(num))+1, 6):
         if num % div == 0 or num % (div+2) == 0:

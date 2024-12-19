@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="59cc793d-9a6d-443d-84a3-71a5c72d862d" name="Changes" comment="So like, it's broken, but it works down to the nearest like, 10,000th and it's a problem with requesting the correct number from the output. so, yeah. Good Luck" />
+    <list default="true" id="59cc793d-9a6d-443d-84a3-71a5c72d862d" name="Changes" comment="fixed it all up, all the files are there now" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,22 +40,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Multiprocessing_Framework.executor": "Run",
-    "Python.PrimeCalcFast.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "configurable.group.tools",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Multiprocessing_Framework.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PrimeCalcFast.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.tools&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\JordanAlaniz\Documents\GitHub\PrimeNumberPython" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -77,6 +82,7 @@
       <workItem from="1734555333117" duration="77000" />
       <workItem from="1734627538349" duration="635000" />
       <workItem from="1734631120586" duration="49000" />
+      <workItem from="1734631318700" duration="88000" />
     </task>
     <task id="LOCAL-00001" summary="Made the framework!!!">
       <option name="closed" value="true" />
@@ -94,7 +100,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734555289793</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="fixed it all up, all the files are there now">
+      <option name="closed" value="true" />
+      <created>1734631381608</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1734631381608</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -103,7 +117,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Made the framework!!!" />
     <MESSAGE value="So like, it's broken, but it works down to the nearest like, 10,000th and it's a problem with requesting the correct number from the output. so, yeah. Good Luck" />
-    <option name="LAST_COMMIT_MESSAGE" value="So like, it's broken, but it works down to the nearest like, 10,000th and it's a problem with requesting the correct number from the output. so, yeah. Good Luck" />
+    <MESSAGE value="fixed it all up, all the files are there now" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed it all up, all the files are there now" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PrimeNumberPython$Multiprocessing_Framework.coverage" NAME="Multiprocessing_Framework Coverage Results" MODIFIED="1734547225027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.vscode" />

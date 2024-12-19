@@ -20,20 +20,20 @@ def prime(num: int) -> bool:
 
 
 def main():
-    primesFound: int = 2
-    currentNum: int = 1
+    primes_found: int = 2
+    current_num: int = 1
 
-    while primesFound < calcTo:
-        currentNum += 4
-        primesFound += prime(currentNum)
+    while primes_found < calcTo:
+        current_num += 4
+        primes_found += prime(current_num)
 
-        if primesFound >= calcTo:
-            return currentNum
+        if primes_found >= calcTo:
+            return current_num
 
-        currentNum += 2
-        primesFound += prime(currentNum)
+        current_num += 2
+        primes_found += prime(current_num)
 
-    return currentNum
+    return current_num
 
 
 if __name__ == "__main__":

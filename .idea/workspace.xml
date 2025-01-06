@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="59cc793d-9a6d-443d-84a3-71a5c72d862d" name="Changes" comment="fixed it all up, all the files are there now">
-      <change afterPath="$PROJECT_DIR$/GPU_framework.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="59cc793d-9a6d-443d-84a3-71a5c72d862d" name="Changes" comment="FAST!!!!!!!!!!!!!!!!!!!">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -91,7 +89,7 @@
       <workItem from="1734631318700" duration="88000" />
       <workItem from="1734631882844" duration="586000" />
       <workItem from="1734713727727" duration="852000" />
-      <workItem from="1736188674163" duration="1847000" />
+      <workItem from="1736188674163" duration="2100000" />
     </task>
     <task id="LOCAL-00001" summary="Made the framework!!!">
       <option name="closed" value="true" />
@@ -117,7 +115,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734631381608</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="FAST!!!!!!!!!!!!!!!!!!!">
+      <option name="closed" value="true" />
+      <created>1736193285354</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1736193285354</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,10 +133,11 @@
     <MESSAGE value="Made the framework!!!" />
     <MESSAGE value="So like, it's broken, but it works down to the nearest like, 10,000th and it's a problem with requesting the correct number from the output. so, yeah. Good Luck" />
     <MESSAGE value="fixed it all up, all the files are there now" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixed it all up, all the files are there now" />
+    <MESSAGE value="FAST!!!!!!!!!!!!!!!!!!!" />
+    <option name="LAST_COMMIT_MESSAGE" value="FAST!!!!!!!!!!!!!!!!!!!" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/PrimeNumberPython$GPU_framework.coverage" NAME="GPU_framework Coverage Results" MODIFIED="1736193072442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PrimeNumberPython$GPU_framework.coverage" NAME="GPU_framework Coverage Results" MODIFIED="1736193163258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PrimeNumberPython$Multiprocessing_Framework.coverage" NAME="Multiprocessing_Framework Coverage Results" MODIFIED="1734547225027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.vscode" />
     <SUITE FILE_PATH="coverage/PrimeNumberPython$PrimeMultiprocessing.coverage" NAME="PrimeMultiprocessing Coverage Results" MODIFIED="1736188992933" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PrimeNumberPython$PrimeCalcFast.coverage" NAME="PrimeCalcFast Coverage Results" MODIFIED="1736188851776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />

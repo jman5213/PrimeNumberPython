@@ -2,8 +2,9 @@ import itertools
 import multiprocessing
 from math import sqrt
 from time import perf_counter
+from numba import jit
 
-
+@jit
 def prime(num: int) -> bool:
     """
     Returns a bool representing the primality of the argument
@@ -17,7 +18,7 @@ def prime(num: int) -> bool:
             return False
     return True
 
-
+@jit
 def work(chunk: list) -> list:
     to_return = []
     for num in chunk:
@@ -25,7 +26,7 @@ def work(chunk: list) -> list:
             to_return.append(num)
     return to_return
 
-
+@jit
 def num_range():
     last = 6
     while True:
